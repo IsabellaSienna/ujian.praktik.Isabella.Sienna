@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    height:100vh;
+    width:100vw;
+
+}
+.tombol{
+    align-items: center;
+    justify-content: center;
+    font-size:large;
+    transform:translateX(48vw);
+    background-color: burlywood;
+    outline:none;
+}
+.tombol:hover{
+    background: white;
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+    transform:translateY(300px);
+}
